@@ -1,0 +1,56 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+    padding: 40px;
+
+}
+.container{
+max-width: 1226px;
+    margin: 0 auto;
+}
+.lupa {
+    display: flex;
+    gap: 10px;
+}
+.links {
+    display: flex;
+    gap: 20px;
+    border: black;
+}
+label{
+  color:   #C72535;
+}
+.blue {
+    color: #247CC0;
+    padding: 10px;
+    font-size: 61px;
+    font-weight: normal;
+}
+.black {
+    font-size: 61px;
+}
+.shop {
+    background-color: #247CC0;
+    /* padding: 35px 16px 16px 35px; */
+    color: aliceblue;
+    border: none;
+    text-align: center;
+    width: 151px;
+    height: 58px;
+}
+.price{
+        color: black;
+        align-items: center;
+        gap: 8px;
+        font-weight: 900;
+        padding: 15px 30px;
+    }
+.for-button{
+    display: flex;
+    align-items: center;
+    /* justify-content: start; */
+    gap: 10px;
+}
+
